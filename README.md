@@ -1,6 +1,6 @@
 ![Lime green geometric design. Get in touch to learn more!](./assets/banner.png)
 
-[www.immanuelcurrah.com](www.immanuelcurrah.com)
+[www.immanuelcurrah.com](https://www.immanuelcurrah.com/)
 
 ## Mission Statement
 
