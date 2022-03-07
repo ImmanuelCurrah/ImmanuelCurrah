@@ -27,7 +27,7 @@ As a previous zen monk with over 15 years of experience in construction, I bring
 # How to reach me
 
 [![Gmail contact badge](./assets/gmail.png)](mailto:immanueli.currah@gmail.com)
-<img src="./assets/linkedin.png" width="75" href="https://www.linkedin.com/in/immanuelcurrah/">
+<a href="https://www.linkedin.com/in/immanuelcurrah/"><img src="./assets/linkedin.png" width="75" ></a>
 
 <!--
 **ImmanuelCurrah/ImmanuelCurrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
