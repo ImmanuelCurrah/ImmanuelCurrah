@@ -1,4 +1,6 @@
-### Hi there 👋
+![Lime green geometric design. Get in touch to learn more!](./assets/banner.png)
+
+[www.immanuelcurrah.com](www.immanuelcurrah.com)
 
 <!--
 **ImmanuelCurrah/ImmanuelCurrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
