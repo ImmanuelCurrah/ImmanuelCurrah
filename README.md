@@ -2,6 +2,10 @@
 
 [www.immanuelcurrah.com](www.immanuelcurrah.com)
 
+## Mission Statement
+
+As a previous zen monk with over 15 years of experience in construction, I bring a diverse and user-centered approach to software engineering. My skills and experience allow me to seamlessly take feedback and improve my code, while also asking questions when needed. Paired with a love of technology, I also thrive on working in fast paced environments to build and improve applications.
+
 <!--
 **ImmanuelCurrah/ImmanuelCurrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
