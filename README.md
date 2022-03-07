@@ -6,6 +6,13 @@
 
 As a previous zen monk with over 15 years of experience in construction, I bring a diverse and user-centered approach to software engineering. My skills and experience allow me to seamlessly take feedback and improve my code, while also asking questions when needed. Paired with a love of technology, I also thrive on working in fast paced environments to build and improve applications.
 
+## Languages I use
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
+
 <!--
 **ImmanuelCurrah/ImmanuelCurrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
